@@ -4,7 +4,7 @@ This Postman collection provides requests to interact with the backend of the Jo
 
 ## Importing the Collection
 
-1. Download the Postman collection JSON file from [here](<link-to-download>).
+1. Download the Postman collection JSON file 
 2. Open Postman.
 3. Click on **Import** in the top left corner.
 4. Upload the downloaded JSON file.
